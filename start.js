@@ -6,7 +6,7 @@
 
 
 * @project_name PRABATH-MD
-* @authors Prabath Kumara & sachibot-team(Sachintha) <https://github.com/prabathLK>
+* @authors Prabath Kumara & sachibot-team(PRABATH-MD~hq9FXJqT#D3adPs2CXwX3bAIaLguTTTTZpU75_w211ZqWttJjcsI) <https://github.com/prabathLK>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
 * @link <https://github.com/prabathLK/PRABATH-MD>
 * @version 2.0.6
